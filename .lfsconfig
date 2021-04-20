@@ -1,2 +1,2 @@
 [lfs]
-	url = http://localhost:8081/repository/testlfs/
+	url = http://localhost:8081/repository/testlfs/info/lfs
